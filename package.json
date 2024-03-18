@@ -1,0 +1,30 @@
+{
+  "name": "sharonhall-config",
+  "version": "1.0.0",
+  "description": "Sharonhall-config is a collection of useful utility functions for Node.js applications.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sharonhall9984281/sharonhall-config"
+  },
+  "dependencies": {
+	  "dorothymoore": "1.0.0",
+"potapovvlad": "1.0.0",
+"sharonhall-config": "1.0.0",
+"jakea-lk": "1.0.0",
+"ls-v1": "1.0.0",
+"layer-v11": "1.0.0",
+"selivanovpetr-os": "1.0.0",
+    "dependency1": "^1.0.0",
+    "dependency2": "^2.0.0"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sharonhall9984281/sharonhall-config/issues"
+  },
+  "homepage": "https://github.com/sharonhall9984281/sharonhall-config#readme"
+}
